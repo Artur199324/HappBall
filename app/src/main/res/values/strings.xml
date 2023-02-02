@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Happy Ball</string>
+    <string name="search">Search</string>
+    <string name="unsplashimage">UnsplashImage</string>
+    <string name="delete">delete</string>
+    <string name="save">save</string>
+    <string name="likes">likes</string>
+    <string name="share">share</string>
+    <string name="featured_images">featured images</string>
+    <string name="see_all_images">see all images</string>
+    <string name="exit">exit</string>
+    <string name="you_have_not_added_any_image_yet">You have not added any image yet</string>
+</resources>
